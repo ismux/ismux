@@ -3,7 +3,7 @@
 <p>Trabajo como desarrollador web desde 2013.</p>
 </div>
 
-##Sobre mí
+## Sobre mí
 - Especializado en tecnologías .Net con C#
 - React TS
 - SQL Server

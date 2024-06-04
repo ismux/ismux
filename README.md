@@ -1,5 +1,6 @@
-## Hi there 👋
-
+<div align="center">
+<p>Prueba</p>
+</div>
 <!--
 **ismux/ismux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

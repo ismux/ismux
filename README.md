@@ -1,9 +1,4 @@
 <style>
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
-
-body {
-  background: rgb(20,20,20);
-}
 #container {
   background: rgb(20,20,20);
   overflow: hidden;
@@ -62,16 +57,15 @@ p {
 	to { top: -4500px; transform: translateZ(-2500px) rotateX(36deg); }
 }
 </style>
-<body>
+
   <div id ="container">
     <div id="starContainer"></div>
     <div id="txtContainer">
       <div id="txtWrapper"></div>
     </div>
   </div>
-</body>
 
-<script type="text/javascript">
+<script>
 
 const textArray = [ { type: "h1", text: "Ismael Plantón" },
                     { type: "h2", text: "Desarrollador web" },
